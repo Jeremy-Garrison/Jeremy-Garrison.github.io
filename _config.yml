@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Jeremy Garrison"
 title_separator          : "-"
 name                     : &name "Jeremy Garrison"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jeremy Garrison"
-  pronouns         : "he/him"  
+  pronouns         : #"he/him"  
   bio              : "PhD Candidate"
   location         : "Fort Collins, Colorado"
   employer         : "Colorado State University"
