@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ETZN97YVKW"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-ETZN97YVKW'); </script>
 Working Papers
 
 Donkey business: trade, resource exploitation, and crime (with Lucas Corrêa-Dias) Revision requested at Journal of the European Economic Association PDF{: .btn--research}
