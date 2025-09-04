@@ -11,4 +11,4 @@ redirect_from:
 
 You can download a copy of my CV here.
 
-<iframe src="{{ site.url }}/files/pdf/GarrisonCV.pdf" width="100%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="{{ site.url }}/files/Jeremy Garrison CV.pdf" width="100%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
