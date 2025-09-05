@@ -16,10 +16,10 @@ title: "Teaching"
 
 {teaching philosophy}
 
-# Instructor
+## Instructor
 - ECON 202: Principles of Microeconomics (Fall 2023, Spring 2024, Fall 2024, Spring 2025, Fall 2025)
   - [Syllabus](/files/2025FA-ECON-202-002.pdf)
 
-# Teaching Assistant
+## Teaching Assistant
 - ECON 202: Principles of Microeconomics (Fall 2021, Spring 2022, Fall 2022, Spring 2023)
 - ECON 204: Principles of Macroeconomics (Fall 2020, Spring 2021)
