@@ -13,7 +13,7 @@ title: "Teaching"
 </script>
 
 ## Teaching Philosophy
-Throughout my time teaching economics at Colorado State University, I have developed a student-centered pedagogy. I employ a series of small-group activities that encourage broad student participation and permit me to interact with the students one-on-one even in the large lecture setting. By emphasizing the value of students’ lived experience in understanding economics, I seek to cultivate an environment of critical engagement with the material, critical reflection on the structures of society, empathy through civil discourse, and empowerment through knowledge. These methods nurtured my curiosity as a student, and this philosophy imbues my teaching now with deep purpose.
+I have always loved teaching. Few other jobs compare when it comes to salience of impact. Throughout my time teaching economics at Colorado State University, I have developed a student-centered approach. I employ a series of small-group activities that encourage broad student participation and permit me to interact with the students one-on-one even in the large lecture setting. By emphasizing the value of students’ lived experience in understanding economics, I seek to cultivate an environment of critical engagement with the material, critical reflection on the structures of society, empathy through civil discourse, and empowerment through knowledge. These methods nurtured my curiosity as a student, and this philosophy imbues my teaching now with a deep sense of purpose.
 
 Evidence of my teaching effectiveness can be found in this [document](/files/Teaching Effectiveness.pdf).
 
