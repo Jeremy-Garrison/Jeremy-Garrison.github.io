@@ -13,7 +13,7 @@ title: "Teaching"
 </script>
 
 ## Teaching Philosophy and Method
-Throughout my time teaching economics at Colorado State University, I have developed a student-centered pedagogy. By validating diverse experiential knowledge, encouraging critical engagement with theory, and promoting civil discourse, I strive to transform the economics classroom into a space of empathy, empowerment, and intellectual growth. Looking ahead, I am eager to apply my teaching method in a variety of course settings, including smaller and more advanced classes. In the future, in addition to teaching microeconomics, I would love to teach courses on game theory, political economy, and ecological economics.
+Throughout my time teaching economics at Colorado State University, I have developed a student-centered pedagogy. By validating diverse experiential knowledge, encouraging critical engagement with theory, and promoting civil discourse, I strive to transform the economics classroom into a space of empathy, empowerment, and intellectual growth. Looking ahead, I am eager to apply my teaching method in a variety of course settings, including smaller and more advanced classes. In the future, in addition to teaching microeconomics, I would love to teach courses on political economy, ecological/environmental economics, game theory, behavioral economics, and economic history.
 
 Evidence of my teaching effectiveness can be found in this [document](/files/Teaching Effectiveness.pdf).
 
