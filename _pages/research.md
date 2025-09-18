@@ -36,7 +36,7 @@ The Political Economy of Selfishness: Behavioral Consequences of the Logic of Ca
 
 Identity, Stigma, and Power in Social Movements
 
-Anonymity, Ephemerality, and Reciprocity
+Ephemerality and Reciprocity
 
 Ecological Networks and Human Niches: Moving Beyond Homo Economicus
 
