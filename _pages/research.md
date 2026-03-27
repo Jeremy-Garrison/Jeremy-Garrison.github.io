@@ -36,11 +36,8 @@ Indigeneity and Sustainable Ecological Relationships: An Evolutionary Theory
 
 The Political Economy of Selfishness: Behavioral Consequences of the Logic of Capitalism
 
-Identity, Stigma, and Power in Social Movements
+Social Media Restriction and Well-Being: A Meta-Analysis of Randomized Controlled Trials (with Joel McGuire)
 
-Ephemerality and Reciprocity
+Identity, Stigma, and Power in Social Movements (with Corrina Fuller, Shravika Mittal, and Enock Appia Tieku)
 
 Ecological Networks and Human Niches: Moving Beyond Homo Economicus
-
-
-
