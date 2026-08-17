@@ -16,7 +16,7 @@ author_profile: true
 
 <span style="font-size:1.25em; font-weight:bold;">Publications and Accepted</span>
 
-Social Context and the Evolution of Empathy. _Evolution and Human Behavior._ Vol. 47 (3), May 2026 [Link]([https://authors.elsevier.com/a/1mbeq3tz49EAqm](https://www.sciencedirect.com/science/article/pii/S1090513826000176?casa_token=AuNuigg-pfwAAAAA:f4BvEytFTnwvlOlp3yTMbA5tRwOnQoQeLXzrwc0-W7c89CvyudEwQe2onJ4j8XY_ZeJ1Os-myw)){: .btn--research} [PDF](/files/Social Context and the Evolution of Empathy.pdf){: .btn--research} 
+Social Context and the Evolution of Empathy. _Evolution and Human Behavior._ Vol. 47 (3), May 2026 [Link](https://www.sciencedirect.com/science/article/pii/S1090513826000176#ab0005){: .btn--research} [PDF](/files/Social Context and the Evolution of Empathy.pdf){: .btn--research} 
 
 >How does social context influence the evolution and behavioral expression of empathy? Experimental evidence consistently shows that empathy increases with social closeness. Using evolutionary game theory, I examine how empathy evolves in various social-economic ecologies. I situate the evolutionary game on a network with distinct social and economic layers and define empathy as cooperating conditional on social proximity. The results reveal that when interactions occur among both familiars and strangers, discriminatory empathy outperforms unconditional cooperation, but when interactions occur only among strangers, empathy produces no cooperation. These findings highlight the behavioral consequences of modern human ecologies characterized by anonymity and provide insights for designing institutions and structuring human ecologies that better foster cooperation.
 
