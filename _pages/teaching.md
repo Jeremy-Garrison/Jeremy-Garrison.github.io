@@ -19,7 +19,7 @@ Evidence of my teaching effectiveness can be found in this [document](/files/Tea
 
 ## Instructor of Record
 - Principles of Economics, College of the Holy Cross (Fall 2026)
-  - [Syllabus](/files/Syllabus - Principles of Economics.pdf)
+  - [Syllabus](/files/Syllabus - Environmental Economics.pdf)
 - Environmental Economics, College of the Holy Cross (Fall 2026)
   - [Syllabus](/files/Syllabus - Environmental Economics.pdf)
 - Principles of Microeconomics, Colorado State University (Fall 2023 - Spring 2026)
