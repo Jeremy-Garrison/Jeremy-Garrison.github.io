@@ -34,8 +34,6 @@ Markets and Prosociality: A Theoretical Synthesis and Meta-Analysis. [PDF](/file
 
 A Unifying Framework for the Evolution of Cooperation
 
-Social Media Restriction and Well-Being: A Meta-Analysis of Randomized Controlled Trials (with Joel McGuire and Samuel Dupret)
-
 Incorporating Power into Evolutionary Game Theory (with Paul Nasca)
 
 The Evolution of Racism and Racial Identity (with Paul Nasca and Elissa Braunstein)
